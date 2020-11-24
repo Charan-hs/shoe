@@ -1,0 +1,35 @@
+.headContainer {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.appContainer {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.logo {
+    width: 65px;
+    height: 65px;
+    margin: -15px ;
+ 
+  }
+
+.img-logo {
+    width: 100px;
+    height: 100px;
+}
+  
+.logo-container {
+    justify-content: flex-start;
+}
+
+.logo-text {
+   
+}
+.logo-shop {
+    justify-content: flex-end;
+}
